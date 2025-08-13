@@ -4,3 +4,10 @@ export default function Portal () {
     )
 
 }
+
+export default function Portal () {
+    return (
+        <div></div>
+    )
+
+}
